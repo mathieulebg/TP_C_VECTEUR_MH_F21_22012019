@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1548150752 source:d:\ludus academie\projet codeblocks\tp_c_vecteur_mh_f21_22012019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vecteur.h"
+
+1548150742 d:\ludus academie\projet codeblocks\tp_c_vecteur_mh_f21_22012019\vecteur.h
+
